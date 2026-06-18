@@ -1,5 +1,5 @@
 # Customer Service Deflection Portal
-AI-Assisted Development Project
+AI-Assisted Development Project For Learning
 
 A self-service returns and claims portal for a fictional retailer, built on Salesforce.
 The portal lets customers resolve common service requests on their own — checking
